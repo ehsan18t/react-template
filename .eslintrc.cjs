@@ -31,8 +31,9 @@ module.exports = {
       'warn',
       {
         groups: [
-          ['builtin', 'external'],
-          ['internal', 'parent', 'sibling', 'index'],
+          ['external', 'builtin'],
+          ['internal', 'index'],
+          ['parent', 'sibling'],
         ],
         'newlines-between': 'always',
         alphabetize: {

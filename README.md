@@ -12,6 +12,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ## Pre-Configured Rules
 
 - Import alias support `@` for `src/` directory
+- TailwindCSS Auto Sort
 - Path Autocomplete for `import` statements with alias
 - Recommended Pretter rules
 - `[react/prop-types]` - Turned off props validation warning
